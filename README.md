@@ -1,2 +1,10 @@
 # datamosh-tui
-TUI .sh script for listening to DATAMOSH web-radio
+TUI-утилита для доступа к [брейккор-веб-радио DATAMOSH](https://datamosh.ru/radio).
+
+Нужно для работы:
+- vlc
+- curl
+- jq
+- tput
+
+![Скриншот](https://github.com/wantayanamirei/datamosh-tui/screen.jpg)
