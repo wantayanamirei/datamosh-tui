@@ -7,4 +7,4 @@ TUI-утилита для доступа к [брейккор-веб-радио 
 - jq
 - tput
 
-![Скриншот](https://github.com/wantayanamirei/datamosh-tui/screen.jpg)
+![Скриншот](https://github.com/wantayanamirei/datamosh-tui/screenshot.jpg)
