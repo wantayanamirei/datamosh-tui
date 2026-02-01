@@ -6,5 +6,5 @@ TUI-утилита для доступа к [брейккор-веб-радио 
 - curl
 - jq
 - tput
-
-![Скриншот](https://github.com/wantayanamirei/datamosh-tui/screenshot.png)
+# 
+![Скриншот](screenshot.png)
